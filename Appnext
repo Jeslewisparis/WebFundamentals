@@ -1,0 +1,23 @@
+var Appnext = {
+       android_id: 'e77c518f-595f-4510-989b-6a255cf36818',
+       ios_id: '0425c427-1643-4355-82de-117751e5caed',
+       cat: '',
+       pbk: '',
+       b_title: 'Download',
+       b_color: '',
+       skip_url: '',
+       skip_title: '',
+       mute: '',
+       timeout: '20',
+       times_to_show: '',
+       times_to_show_reset: '',
+       creative:'managed',
+       subid: ''
+     };
+(function(){
+var _s=document.createElement('script');
+_s.type='text/javascript';
+_s.async=true;
+        _s.src='https://appnext-a.akamaihd.net/tools/tags/video/manage_script.js';
+(document.body)?document.body.appendChild(_s):document.head.appendChild(_s);
+})();
